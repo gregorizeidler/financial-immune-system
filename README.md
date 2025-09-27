@@ -2,7 +2,7 @@
 
 > *A revolutionary fraud detection system inspired by the human immune system that detects financial anomalies like "viruses," generates "antibodies" (security rules), and distributes immunity across the entire financial network.*
 
-## 🌟 Overview
+## 🌟 Overview 
 
 The Financial Immune System is a sophisticated, biologically-inspired fraud detection and prevention system that mimics the human immune system's ability to:
 
